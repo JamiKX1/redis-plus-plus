@@ -78,6 +78,7 @@ LeftBoundedInterval<double>::LeftBoundedInterval(double min, BoundType type) :
 
     case BoundType::RIGHT_OPEN:
         // Do nothing.
+        // edit here
         break;
 
     default:

@@ -52,7 +52,6 @@ BoundedInterval<double>::BoundedInterval(double min, double max, BoundType type)
         // edit here
         // still edit
         // still edit
-        // still edit
         break;
 
     case BoundType::OPEN:
